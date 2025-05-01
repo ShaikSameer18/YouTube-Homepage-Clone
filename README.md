@@ -53,6 +53,8 @@ This is a front-end clone of the YouTube homepage, built using HTML and CSS. The
 ## 📸 Preview
 
 _Add a screenshot or GIF of the webpage here (optional)._
+![image](https://github.com/user-attachments/assets/7f9520fc-0080-4ef0-8a08-9cee2f950f1d)
+
 
 ## 📚 Credits
 
